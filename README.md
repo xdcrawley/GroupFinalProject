@@ -1,7 +1,7 @@
 # GroupFinalProject
 
 Team:
-Xander Crawley
+Xander Crawley,
 Ayden Smith
 
 Product Name: QuickRoute AI

@@ -43,3 +43,6 @@ o	“Eco Score: 85/100 (Efficient Route)”
 o	A chart comparing predicted vs. actual efficiency
 o	Buttons: [Enter Route Data], [View Efficiency Report]
 Summary: QuickRoute AI is a smart, data-driven assistant that helps drivers choose eco-friendly routes and improve driving habits. By using AI to predict and classify route efficiency, it aims to reduce fuel costs and promote sustainable transportation choices.
+
+My contributions would be everything so far. I chose the field, topic and everything else since I haven't heard from my partner in this project.
+So I am the one who finalized the product idea, wrote a clear problem statement, identified how AI will address it. and sketched the initial product concept or system overview as you can see above.

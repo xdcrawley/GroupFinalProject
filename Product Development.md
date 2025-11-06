@@ -26,21 +26,20 @@ MODEL OVERVIEW
 
 AI Techniques Used:
 
-  Supervised Learning (Regression & Classification)
-
-  Feature importance analysis to identify which conditions impact fuel usage the most.
+Supervised Learning (Regression & Classification)
+Feature importance analysis to identify which conditions impact fuel usage the most.
 
 Training Data Acquisition / Simulation:
 The model is trained using either:
 
-  Open datasets on vehicle fuel consumption (e.g., UCI or Kaggle), or
-
-  Simulated datasets created by varying route parameters such as distance, traffic level, and elevation to generate realistic trip         records (100–500 samples).
+Open datasets on vehicle fuel consumption (e.g., UCI or Kaggle), or
+  
+Simulated datasets created by varying route parameters such as distance, traffic level, and elevation to generate realistic trip         records (100–500 samples).
 
 Target Audience:
 
-  Everyday drivers seeking to save on fuel and drive sustainably
+Everyday drivers seeking to save on fuel and drive sustainably
 
-  Delivery companies or ride-sharing fleets aiming to reduce operational costs
+Delivery companies or ride-sharing fleets aiming to reduce operational costs
 
-  Smart mobility researchers and students exploring sustainable AI applications
+Smart mobility researchers and students exploring sustainable AI applications

@@ -44,4 +44,17 @@ Everyday drivers seeking to save on fuel and drive sustainably
 
 Delivery companies or ride-sharing fleets aiming to reduce operational costs
 
+ETHICAL CONSIDERATIONS
+
+Potential Concern:
+Data privacy and algorithmic bias.
+If real route or driving data were used, sensitive location information could be exposed or certain driving patterns might bias predictions.
+
+How We Address It:
+
+Use anonymized or simulated datasets with no personal identifiers.
+
+Apply model evaluation fairness checks to ensure predictions do not unfairly favor or penalize any route or driving type.
+
+Maintain transparency in model assumptions and data sources within project documentation.
 Smart mobility researchers and students exploring sustainable AI applications

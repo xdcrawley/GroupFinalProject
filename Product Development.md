@@ -27,9 +27,11 @@ MODEL OVERVIEW
 AI Techniques Used:
 
 Supervised Learning (Regression & Classification)
+
 Feature importance analysis to identify which conditions impact fuel usage the most.
 
 Training Data Acquisition / Simulation:
+
 The model is trained using either:
 
 Open datasets on vehicle fuel consumption (e.g., UCI or Kaggle), or

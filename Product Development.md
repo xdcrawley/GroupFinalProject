@@ -58,3 +58,9 @@ Apply model evaluation fairness checks to ensure predictions do not unfairly fav
 
 Maintain transparency in model assumptions and data sources within project documentation.
 Smart mobility researchers and students exploring sustainable AI applications
+
+INNOVATION
+
+EcoRoute AI stands out by focusing on eco-efficiency rather than speed — an often-overlooked dimension in modern navigation tools.
+Its combination of predictive modeling, sustainability metrics, and user-friendly visualization makes it a unique educational and practical solution.
+By turning route optimization into an environmentally conscious decision, EcoRoute AI promotes greener mobility for both individuals and organizations.

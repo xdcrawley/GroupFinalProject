@@ -21,3 +21,26 @@ Regression Model (e.g., Random Forest or Linear Regression) – predicts fuel co
 Classification Model (e.g., Decision Tree or Logistic Regression) – classifies each trip as Efficient or Inefficient, allowing users to visualize and compare route performance.
 
 Together, these models enable EcoRoute AI to make data-driven recommendations for greener, cost-effective transportation.
+
+MODEL OVERVIEW
+
+AI Techniques Used:
+
+Supervised Learning (Regression & Classification)
+
+Feature importance analysis to identify which conditions impact fuel usage the most.
+
+Training Data Acquisition / Simulation:
+The model is trained using either:
+
+Open datasets on vehicle fuel consumption (e.g., UCI or Kaggle), or
+
+Simulated datasets created by varying route parameters such as distance, traffic level, and elevation to generate realistic trip records (100–500 samples).
+
+Target Audience:
+
+Everyday drivers seeking to save on fuel and drive sustainably
+
+Delivery companies or ride-sharing fleets aiming to reduce operational costs
+
+Smart mobility researchers and students exploring sustainable AI applications

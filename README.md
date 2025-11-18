@@ -10,6 +10,7 @@ The tool aims to reduce fuel costs, carbon emissions, and unnecessary environmen
 Team Members and Roles
 
 Name: Xander Crawley, Role: (So far everything.)
+
 Name: Ayden Smith, Role: (So far nothing since I haven't been contacted yet and my discussion didn't recieve a reply.)
 
 Overview of the AI Concept & Algorithm Used

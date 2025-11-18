@@ -6,6 +6,6 @@ ANyways so far I have done everything from the README file, the Prodcut Developm
 Although I haven't finished some things such as the datasets(looked through some but haven't settled on which dataset I want to use), the visuals, and the logo.
 For this phase in particular I have completed all of these objectives:
 
-Decide what type of AI/ML will be used (e.g., classification, NLP, regression, clustering) • Research datasets — real or simulated • Discuss model limitations and potential risks
+• Decide what type of AI/ML will be used (e.g., classification, NLP, regression, clustering) • Research datasets — real or simulated • Discuss model limitations and potential risks
 
 • Identify key ethical concerns (bias, fairness, transparency, privacy) • Define target market and user needs • Draft an ethical use statement describing responsible deployment

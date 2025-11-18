@@ -9,3 +9,5 @@ For this phase in particular I have completed all of these objectives below by m
 Decide what type of AI/ML will be used (e.g., classification, NLP, regression, clustering) • Research datasets — real or simulated • Discuss model limitations and potential risks
 
 Identify key ethical concerns (bias, fairness, transparency, privacy) • Define target market and user needs • Draft an ethical use statement describing responsible deployment
+
+Overall I think I am making good progress in the Final Project and I getting ready to slighly modify the Power Point to make it closer to how the finished product should be such as finally picking a dataset, getting the visuals about said dataset, getting a logo, and then finally trying to cut back on some information to make the Power Point fit into the range of 5-10 slides like it was suggested to be.

@@ -84,3 +84,5 @@ Display confidence intervals and disclaimers
 
 Emphasize the model as a decision support tool, not an exact measurement
 
+Links to Slides and Recordings
+

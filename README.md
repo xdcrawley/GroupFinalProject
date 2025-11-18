@@ -1,56 +1,85 @@
 # GroupFinalProject
 
-Team:
-Xander Crawley,
-Ayden Smith
+QuickRoute AI
+Project Description
 
-Product Name: QuickRoute AI
+QuickRoute AI is an eco-friendly, AI-powered route optimization tool designed to help drivers choose the most fuel-efficient and environmentally sustainable routes.
+Unlike traditional navigation systems that only focus on speed or distance, QuickRoute AI predicts fuel consumption using machine learning and classifies routes based on efficiency.
+The tool aims to reduce fuel costs, carbon emissions, and unnecessary environmental impact through data-driven decision making.
 
-Problem Statement: In modern transportation, drivers and delivery fleets often rely on navigation systems that prioritize only the fastest route, not the most efficient one.
-This leads to:
-• Higher fuel consumption
-•	Increased CO₂ emissions
-•	Unnecessary costs for individuals and businesses
-There is currently no simple, accessible system that helps everyday drivers make eco-friendly route decisions using real-world conditions such as traffic, terrain, and driving         behavior.
+Team Members and Roles
 
-How AI Will Address It: QuickRoute AI uses machine learning to analyze and predict the fuel efficiency of different driving routes based on key factors such as:
-•	Distance and average speed
-•	Elevation or slope of the road
-•	Traffic density
-•	Weather and temperature
+Name: Xander Crawley, Role: (So far everything.)
+Name: Ayden Smith, Role: (So far nothing since I haven't been contacted yet and my discussion didn't recieve a reply.)
 
-The system’s AI models include:
-1.	Regression Model (e.g., Random Forest Regressor or Linear Regression):
-Predicts the estimated fuel consumption (liters) for any given route.
-2.	Classification Model (e.g., Decision Tree or Logistic Regression):
-Categorizes trips as Efficient or Inefficient, helping users understand which routes or driving styles save more energy.
-By combining these models, QuickRoute AI can recommend optimized routes that reduce both cost and environmental impact.
+Overview of the AI Concept & Algorithm Used
 
-User Inputs
-   ↓
-Route & Environmental Data
-(distance, speed, elevation, weather, traffic)
-   ↓
-Data Processing & Feature Extraction
-   ↓
-AI Models
-   → Regression: Predicts fuel consumption
-   → Classification: Labels trip efficiency
-   ↓
+QuickRoute AI uses supervised machine learning to analyze route characteristics and predict their fuel efficiency. The system integrates two key models:
 
-Dashboard Output
-   - Predicted fuel usage
-   - Efficiency rating (Eco/Moderate/Inefficient)
-   - Visualization (bar & line charts)
+1. Regression Model – Fuel Consumption Prediction
 
-User Interface (Simple Mockup Concept):
-•	A clean dashboard showing:
-o	“Predicted Fuel Usage: 4.2 liters”
-o	“Eco Score: 85/100 (Efficient Route)”
-o	A chart comparing predicted vs. actual efficiency
-o	Buttons: [Enter Route Data], [View Efficiency Report]
+Algorithm: Random Forest Regressor (or Linear Regression)
 
-Summary: QuickRoute AI is a smart, data-driven assistant that helps drivers choose eco-friendly routes and improve driving habits. By using AI to predict and classify route efficiency, it aims to reduce fuel costs and promote sustainable transportation choices.
+Purpose: Predict estimated fuel used (L) for a given route
 
-My contributions would be everything so far. I chose the field, topic and everything else since I haven't heard from my partner in this project.
-So I am the one who finalized the product idea, wrote a clear problem statement, identified how AI will address it. and sketched the initial product concept or system overview as you can see above.
+Inputs:
+
+Distance
+
+Average speed
+
+Elevation gain
+
+Traffic level
+
+Temperature / weather
+
+Output: Numerical prediction of fuel consumption for the route
+
+2. Classification Model – Route Efficiency Labeling
+
+Algorithm: Decision Tree Classifier (or Logistic Regression)
+
+Purpose: Label each route as Efficient or Inefficient
+
+Inputs: Same route features as regression
+
+Output: Efficiency category for user comparison
+
+Data Handling
+
+Training data can come from open fuel-consumption datasets or simulated trip data created by varying factors such as distance, elevation, and traffic.
+Both data types are anonymized and contain no personal information.
+
+Ethical Considerations
+1. Data Privacy
+
+Although QuickRoute AI can be trained on simulated or publicly available datasets, any real-world route data could contain sensitive location information.
+Mitigation:
+
+Use only anonymized or synthetic data
+
+Avoid storing raw location details
+
+Document data sources transparently
+
+2. Algorithmic Bias
+
+Models may unintentionally favor certain types of routes (e.g., flat terrain) based on training data.
+Mitigation:
+
+Evaluate models on diverse route conditions
+
+Perform fairness testing and feature-impact analysis
+
+Clearly disclose model limitations in documentation
+
+3. Environmental Claims Transparency
+
+While QuickRoute AI promotes sustainability, predictions may not always match real-world outcomes due to traffic or driver behavior.
+Mitigation:
+
+Display confidence intervals and disclaimers
+
+Emphasize the model as a decision support tool, not an exact measurement
+

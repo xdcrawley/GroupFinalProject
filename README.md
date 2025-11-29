@@ -86,13 +86,13 @@ Emphasize the model as a decision support tool, not an exact measurement
 
 Target Users
 
-Everyday drivers who want to save fuel
+  1. Everyday drivers who want to save fuel
 
-Delivery fleets aiming to reduce operational costs
+  2. Delivery fleets aiming to reduce operational costs
 
-Students and researchers working with smart mobility tools
+  3. Students and researchers working with smart mobility tools
 
-Eco-conscious users interested in sustainable travel
+  4. Eco-conscious users interested in sustainable travel
 
 Links to Slides and Recordings
 

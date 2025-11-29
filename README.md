@@ -84,5 +84,15 @@ Display confidence intervals and disclaimers
 
 Emphasize the model as a decision support tool, not an exact measurement
 
+Target Users
+
+Everyday drivers who want to save fuel
+
+Delivery fleets aiming to reduce operational costs
+
+Students and researchers working with smart mobility tools
+
+Eco-conscious users interested in sustainable travel
+
 Links to Slides and Recordings
 

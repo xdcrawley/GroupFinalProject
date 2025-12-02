@@ -101,7 +101,7 @@ Target Users
 
 Dashboard Mockup:
 
-<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/37aafc5f-2c5f-4f5e-a5ec-ef63e9f438cd" />
+<img width="350" height="750" alt="image" src="https://github.com/user-attachments/assets/37aafc5f-2c5f-4f5e-a5ec-ef63e9f438cd" />
 
 
 Links to Slides and Recordings

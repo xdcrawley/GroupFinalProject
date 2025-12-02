@@ -101,27 +101,7 @@ Target Users
 
 Dashboard Mockup:
 
- -----------------------------------------------------------
-|                   QUICKROUTE AI DASHBOARD                 |
- -----------------------------------------------------------
-|  Predicted Fuel Usage:         |   Route Efficiency:      |
-|         3.8 liters             |        ★★★★☆ (High)      |
-|-----------------------------------------------------------|
-|  Route Details:                                          |
-|   • Distance: 12.4 km                                    |
-|   • Avg Speed: 39 mph                                    |
-|   • Elevation Gain: 84 ft                                |
-|   • Traffic Level: Moderate                              |
-|-----------------------------------------------------------|
-|                Fuel Consumption Chart (Preview)          |
-|         |                                                 |
-|  5 L ---|                     ███                         |
-|         |          ███        ███            ███         |
-|  3 L ---|  ███     ███        ███    ███     ███         |
-|         --------------------------------------------------|
-|         Route A   Route B   Route C   Route D             |
- -----------------------------------------------------------
-<img width="852" height="1365" alt="image" src="https://github.com/user-attachments/assets/37aafc5f-2c5f-4f5e-a5ec-ef63e9f438cd" />
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/37aafc5f-2c5f-4f5e-a5ec-ef63e9f438cd" />
 
 
 Links to Slides and Recordings

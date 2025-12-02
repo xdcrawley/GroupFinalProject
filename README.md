@@ -1,6 +1,11 @@
 # GroupFinalProject
 
 QuickRoute AI
+
+Logo:
+
+<img width="267" height="129" alt="image" src="https://github.com/user-attachments/assets/911efb3f-4d45-48f6-87c8-a42b3cbba7c7" />
+
 Project Description
 
 QuickRoute AI is an eco-friendly, AI-powered route optimization tool designed to help drivers choose the most fuel-efficient and environmentally sustainable routes.
@@ -94,7 +99,6 @@ Target Users
 
   4. Eco-conscious users interested in sustainable travel
 
-<img width="267" height="129" alt="image" src="https://github.com/user-attachments/assets/b06106af-4d08-40ba-aebc-9209c2627c40" />
 
 
 Links to Slides and Recordings

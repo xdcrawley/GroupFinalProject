@@ -94,5 +94,8 @@ Target Users
 
   4. Eco-conscious users interested in sustainable travel
 
+<img width="267" height="129" alt="image" src="https://github.com/user-attachments/assets/b06106af-4d08-40ba-aebc-9209c2627c40" />
+
+
 Links to Slides and Recordings
 

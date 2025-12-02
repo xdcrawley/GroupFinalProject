@@ -114,3 +114,5 @@ Sample Output Table:
 
 Links to Slides and Recordings
 
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fxdcrawley%2FGroupFinalProject%2Frefs%2Fheads%2Fmain%2FGroup%2520Project%2520AI%2520Innovators%2520Capstone%2520Project%2520Powerpoint.pptx&wdOrigin=BROWSELINK
+

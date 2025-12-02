@@ -103,6 +103,14 @@ Dashboard Mockup:
 
 <img width="350" height="750" alt="image" src="https://github.com/user-attachments/assets/37aafc5f-2c5f-4f5e-a5ec-ef63e9f438cd" />
 
+Sample Output Table:
+
+| Route | Distance (km) | Elevation (m) | Traffic | Predicted Fuel (L) | Efficiency  |
+| ----- | ------------- | ------------- | ------- | ------------------ | ----------- |
+| A     | 10.2          | 50            | Low     | 2.9                | Efficient   |
+| B     | 14.7          | 120           | Medium  | 4.4                | Moderate    |
+| C     | 8.3           | 20            | High    | 3.7                | Inefficient |
+| D     | 12.1          | 80            | Low     | 3.3                | Efficient   |
 
 Links to Slides and Recordings
 

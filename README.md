@@ -117,3 +117,4 @@ Links to Slides and Recordings
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fxdcrawley%2FGroupFinalProject%2Frefs%2Fheads%2Fmain%2FGroup%2520Project%2520AI%2520Innovators%2520Capstone%2520Project%2520Powerpoint.pptx&wdOrigin=BROWSELINK
 
 https://1drv.ms/v/c/f9219da548f56874/IQCbeaHK1twTR6UH5aUg8CDgAQdfbWzFUBoQkZ8XlnOOPN0?e=WnsHaY
+(This video may take a minute to load.)
